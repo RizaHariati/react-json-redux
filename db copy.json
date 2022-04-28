@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "name": "Riza",
+      "location": "London",
+      "email": "Riza@yahoo.com",
+      "contact": "4589723",
+      "id": 1
+    },
+    {
+      "name": "Tommy",
+      "location": "Japan",
+      "email": "Tommy@gmail.com",
+      "contact": "3498572",
+      "id": 2
+    },
+    {
+      "name": "Jane",
+      "location": "Australia",
+      "email": "Jand@yahoo.com",
+      "contact": "34598593",
+      "id": 3
+    },
+    {
+      "name": "Riza",
+      "location": "London",
+      "email": "Riza@yahoo.com",
+      "contact": "4589723",
+      "id": 4
+    },
+    {
+      "name": "Tommy",
+      "location": "Japan",
+      "email": "Tommy@gmail.com",
+      "contact": "3498572",
+      "id": 5
+    },
+    {
+      "name": "Jane",
+      "location": "Australia",
+      "email": "Jand@yahoo.com",
+      "contact": "34598593",
+      "id": 6
+    }
+  ]
+}

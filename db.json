@@ -1,0 +1,53 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Riza Hariati",
+      "location": "New York",
+      "email": "rizahariati@yahoo.com",
+      "contact": "4589723"
+    },
+    {
+      "id": 2,
+      "name": "Tommy Page",
+      "location": "Japan",
+      "email": "Tommy@gmail.com",
+      "contact": "0812104290"
+    },
+    {
+      "id": 10,
+      "name": "Derek Morgan",
+      "location": "Canberra",
+      "email": "derek@yahoo.com",
+      "contact": "03298205"
+    },
+    {
+      "id": 12,
+      "name": "Sarah",
+      "location": "Jakarta Utara",
+      "email": "sa238@gmail.com",
+      "contact": "4372987"
+    },
+    {
+      "id": 13,
+      "name": "Rosy Baby",
+      "location": "Los Angeles",
+      "email": "ros@yahoo.com",
+      "contact": "934208"
+    },
+    {
+      "id": 14,
+      "name": "Budi Sudjatmoko",
+      "location": "Jakarta",
+      "email": "budi@gmail.com",
+      "contact": "93438294"
+    },
+    {
+      "id": 15,
+      "name": "Cleopatra",
+      "location": "Egypt",
+      "email": "Cleo@yahoo.com",
+      "contact": "34930803"
+    }
+  ]
+}
